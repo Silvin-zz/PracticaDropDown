@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">PracticaDropDown</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="estados_array">
+        <item>DF</item>
+        <item>MEXICO</item>
+        <item>PUEBLA</item>
+        <item>NUEVO LEON</item>
+        <item>OAXACA</item>
+        <item>VERACRUZ</item>
+        <item>DURANGO</item>
+    </string-array>
+</resources>
